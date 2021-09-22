@@ -2,8 +2,8 @@
 
 ### PMC - public files Documentation - drivers - support utilities
 
-  Akostar project to count make / break cycles of external switches,
-measure cumulative make-to-break time interval, and set an alert on temperature and
+  Akostar project to count make / break cycles of external switches, and
+measure cumulative make-to-break time interval. Produce and alert on set temperature and
 analog input values; based on configuration.
 
  This folder contains up-to-date documentation for the PMC device. Please
@@ -12,6 +12,10 @@ analog input values; based on configuration.
 ### The main screen of the device (during development)
 
 ![Screen Shot](screen.png)
+
+Basic wiring harness:
+
+![Wiring](Wire.png)
 
 #### Disclaimer:
 
