@@ -15,7 +15,7 @@ analog input values; based on configuration.
 
 Basic wiring harness:
 
-![Wiring](Wire.png)
+![Wiring](wire.png)
 
 #### Disclaimer:
 
