@@ -22,11 +22,10 @@ analog input values; based on configuration.
   Access given to this folder to allow our customers to see the most up to
 date documentation and utilities. Given this purpose, the documents are under
 constant revision, and no claims are made to the accuracy and correctness of the
-contents of this folder. These documents are considered un-authoritative.
+contents of this folder and its sub enttites. These documents are considered un-authoritative.
 Should authoritative documents be needed, please reference the documents
 delivered with the product.
 
 
- EOF
 
 
