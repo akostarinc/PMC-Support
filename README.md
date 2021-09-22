@@ -1,10 +1,8 @@
 # PMC-Support
 
-## PMC - public files -
+### PMC - public files Documentation - drivers - support utilities
 
-### Documentation - drivers - support utilities
-
- Akostar project to count make / break cycles of external switches,
+  Akostar project to count make / break cycles of external switches,
 measure cumulative make-to-break time interval, and set an alert on temperature and
 analog input values; based on configuration.
 
@@ -17,7 +15,7 @@ analog input values; based on configuration.
 
 #### Disclaimer:
 
-Access given to this folder to allow our customers to see the most up to
+  Access given to this folder to allow our customers to see the most up to
 date documentation and utilities. Given this purpose, the documents are under
 constant revision, and no claims are made to the accuracy and correctness of the
 contents of this folder. These documents are considered un-authoritative.
